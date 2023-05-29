@@ -1,13 +1,26 @@
-# finalkirb-site
-Welcome to my repository! This repo serves as a collection of guides, tech advice, and recommendations of various technologies I use myself. The content is written in Markdown and powered by Docsify, allowing for easy navigation and a pleasant reading experience.
+<div align="center">
+
+# Finalkirb-Site
+
+</div>
+
+Welcome to my repository! This repo serves as a collection of guides, tech advice, and recommendations of various technologies I use myself. The content itself is written in Markdown and powered by Docsify, ultimately allowing for easy navigation and a pleasant reading experience.
+
+## Contents
+
+- [About](#about)
+- [Getting Started](#getting-started)
+- [Contributions](#contributions)
+- [License](#license)
+- [Contact](#contact)
 
 ## About
 
-The purpose of this website is to share my knowledge, insights, and experiences in the world of technology.
+The purpose of this website is to share my knowledge, insights, and experiences in the world of technology with friends, family and people all over the world.
 
 ## Getting Started
 
-To access the website and explore the guides, visit [finalkirb.com](https://finalkirb.com). The website is built using Docsify, a lightweight documentation generator that renders Markdown files as web pages.
+To access the website and explore the guides, visit [finalkirb.com](https://finalkirb.com). The website is built using Docsify, a lightweight documentation generator that renders Markdown files as html web pages.
 
 ## Contributions
 
