@@ -41,4 +41,10 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 If you have any questions or suggestions regarding the content, feel free to reach out to me.
 
-Happy reading and exploring the world of technology!
+Happy reading and exploring the world of technology!i
+
+## Credits
+
+This project was improved with the help of the [docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template) repository
+
+A special thanks to the contributors and maintainers of the original project for their valuable work and the template that served as the foundation for this project.
