@@ -13,6 +13,7 @@ Welcome to my repository! This repo serves as a collection of guides, tech advic
 - [Contributions](#contributions)
 - [License](#license)
 - [Contact](#contact)
+- [Credits](#credits)
 
 ## About
 
