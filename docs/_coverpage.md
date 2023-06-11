@@ -14,7 +14,7 @@
 - :cloud: Open-Source and Selfhosted
 
 
-[Get Started](#docsifyjs-template) <!-- TODO: Use ID of your homepage heading -->
+[Get Started](#finalkirb-site) <!-- TODO: Use ID of your homepage heading -->
 
 <!-- TODO: Set your background color or image. -->
 ![color](#b3d9f8)
