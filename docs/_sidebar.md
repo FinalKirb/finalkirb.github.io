@@ -2,4 +2,7 @@
 - [Home](/)
 - Privacy
     * [What is Privacy?](/privacy/)
-    * [Browsers](/privacy/browsers)
+
+- Tools
+    * [Browsers](/tools/browsers)
+    * [Password Managers](/tools/password-managers.md)
