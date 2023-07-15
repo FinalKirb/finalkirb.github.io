@@ -74,7 +74,7 @@ When it comes to Browser Extensions, you will want to be careful with what you i
 - uBlock Origin  
   Open-Source Content Blocker (Much more powerful than just an Ad-Blocker!). Easily the best and most trusted choice to blocking trackers and ads on websites. I strongly believe everyone should have this extension installed in all of their browsers, in my opinion the internet is nearly unusable without it.
 - Bitwarden  
-  Encrypted Cloud-Based Password Manager extension with Auto-Fill functionality on nearly all Sites. More on this can be found in my Article about Password Managers.
+  Encrypted Cloud-Based Password Manager extension with Auto-Fill functionality on nearly all Sites. More on this can be found in my Article about [Password Managers](/tools/password-managers.md).
 - SponsorBlock  
   Skips sponsor segments, promotions and adds video highlights to youtube videos. Very useful if you only want to watch the content that is relevant and save time.
 - Return Youtube Dislike  

@@ -1,10 +1,10 @@
 <div align="center">
 
-# Finalkirb-Site
+# FinalKirb-Site
 
 </div>
 
-Welcome to my repository! This repo serves as a collection of guides, tech advice, and recommendations of various technologies I use myself. The content itself is written in Markdown and powered by Docsify, ultimately allowing for easy navigation and a pleasant reading experience.
+Welcome to my repository! This repo serves as a collection of guides, tech advice, and recommendations of various technologies. The content itself is written with Markdown files and the site is powered by Docsify, ultimately allowing for easy navigation and a pleasant reading experience.
 
 ## Contents
 
@@ -17,11 +17,11 @@ Welcome to my repository! This repo serves as a collection of guides, tech advic
 
 ## About
 
-The purpose of this website is to share my knowledge, insights, and experiences in the world of technology with friends, family and people all over the world.
+The purpose of this website is to document my knowledge, insights, and experiences in the world of technology and keep a record of information that is accessible to anyone.
 
 ## Getting Started
 
-To access the website and explore the guides, visit [finalkirb.com](https://finalkirb.com). The website is built using Docsify, a lightweight documentation generator that renders Markdown files as html web pages.
+To access the website and explore the guides, visit [FinalKirb.com](https://finalkirb.com). The website is built using Docsify, a lightweight documentation generator that renders Markdown files as HTML web pages.
 
 ## Contributions
 
@@ -32,20 +32,18 @@ I appreciate contributions from the community to enhance the content and make it
 3. Make your modifications and additions.
 4. Submit a pull request, describing the changes you've made.
 
-Your contributions can be in the form of fixing errors, adding new guides, improving existing content, or suggesting new topics to cover. Let's work together to create a valuable resource for tech enthusiasts!
+Your contributions can be in the form of fixing errors, improving existing content, writing new articles or suggesting new topics to cover. Let's work together to create a valuable resource for the digital world!
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the content as per the terms of the license.
+This project is licensed under the [MIT License](LICENSE). You are able to freely to use, modify, and distribute the content as per the terms of the license.
 
 ## Contact
 
 If you have any questions or suggestions regarding the content, feel free to reach out to me.
 
-Happy reading and exploring the world of technology!i
-
 ## Credits
 
-This project was improved with the help of the [docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template) repository
+This project is powered by [DocsifyJS](https://docsify.js.org) and was improved with the help of the [docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template) repository:
 
-A special thanks to the contributors and maintainers of the original project for their valuable work and the template that served as the foundation for this project.
+A special thanks to the contributors and maintainers of the original projects for their valuable work and the template that served as the foundation for this project.

@@ -14,7 +14,7 @@
 
 ## About
 
-This website is a markdown documentation site powered by DocsifyJS, where you will find a collection of tech guides, tech advice, and personal recommendations served in the form of markdown files. This platform aims to provide you with valuable information and insights into various technology-related topics.
+This website is a markdown documentation site powered by DocsifyJS, where you will find a collection of tech guides, tech advice, and personal recommendations served in the form of markdown files. This platform aims to provide valuable information and insights into various technology-related topics.
 
 ## How to Navigate the Site
 
@@ -24,7 +24,7 @@ Each article or guide is presented in markdown format, providing a clean and rea
 
 ## Get Started
 
-Now that you know what FinalKirb-Site is all about, it's time to dive in and explore the wealth of knowledge it has to offer. Use the navigation menu to browse the available categories or use the search functionality to find specific topics.
+Now that you know what this site is all about, it's time to dive in and explore the wealth of knowledge it has to offer. Use the navigation menu to browse the available categories to find specific topics.
 
 ## Sample
 
