@@ -8,10 +8,10 @@
 
 <!-- TODO: Update to match your project's benefits/features. Git emojis work great here. -->
 
-- :open_file_folder: Uses markdown files as content
-- :nut_and_bolt: Built on [DocsifyJS](https://docsify.js.org/) and the [Docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template) repo.
+- :open_file_folder: Uses markdown files to display content
+- :nut_and_bolt: Built on [DocsifyJS](https://docsify.js.org/) and the [docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template) repo.
 - :pushpin: The library loads in the browser - no local dependencies
-- :cloud: Open-Source and hosted on [Github Pages](https://finalkirb.github.io)
+- :cloud: Open-Source and hosted on Github Pages
 
 
 [Get Started](#finalkirb-site) <!-- TODO: Use ID of your homepage heading -->
