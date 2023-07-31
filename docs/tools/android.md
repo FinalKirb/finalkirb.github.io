@@ -2,34 +2,36 @@
 
 ## What is Android?
 
-The AOSP (Android Open Source Project) also known as Android is an Open Source Kernel based on Linux primary used for mobile devices  devices like smartphones and tablets. 
-While the code primary runs with propietary software based on Google's and Vendor's ecosystems, the quality of being an easily accesible to the public infrastructure has allow to the creation of a variety versions of the ecoystem, called primary as ROMS 
+The AOSP (Android Open-Source Project), also known as Android is an Open-Source Kernel based on Linux, primarily used for mobile devices such as the smartphones and tablets that we use on a daily basis. While a significant portion of the code involves proprietary software designed for closed ecosystems by Google and device manufacturers, the project's openness and accessibility to the public have given rise to a diverse array of custom ecosystem versions, commonly referred to as ROMs.
 
-## General Advices
+## General Advice
 
-For anyone who doesn't want to get into the amount of detail this document convenes just now, here is some general advices for any Android user to make their device safer
+For the people that prefer a concise overview over delving into the detailed content of this article, here are some general tips to make your Android devices safer:
 
- * Assign a safe password for your device lock. Remember to make it as unique as you can
- * Don't use default propietary apps. They are not only unfunctional most of the time, but are a privacy leak for you. That include things like default browsers, App store, etc
- * Don't download anything that seems strange
- * Privacy wise (with some excepctions) FOSS > Propietary Apps
- * Be careful with the apps you install, either from FOSS Markets or the Google Play Store one. Both can be prone to malicious software if not careful
- * Check your app usage permissions. Camera, GPS, Contact, Email, etc. Be careful what you let apps see
- * Don't give your number on sites or to people you don't trust. Some phones have two SIM chips, which can be useful if you want a disposable number
- * If you really don't need an app, just uninstall it 
+ * Use a safe password for your device lock. Remember to make it as unique as you can.
+ * Avoid the default proprietary apps as much as you can. Not only do they often lack functionality, but are a serious hazard to your privacy. That includes default browsers and app stores.
+ * Do not download strange files, nor install shady APKs from untrustworthy sources.
+ * With some exceptions, a majority of the time Privacy-wise: FOSS > Proprietary Apps
+ * Be cautious of the apps you install, may it come from the Google Play Store or from FOSS Repositories. Either can be prone to malicious software.
+ * Make sure to check your apps' permissions. Camera, Location, SMS, Storage, Contacts, etc. Don't give apps permissions that they do not need to function.
+ * Don't hand over your phone number on sites or people that you don't trust, your phone number is one of the least likely points of information to change about you. Some phones have Dual-SIM support, which can be useful if you have/plan to get a disposable prepaid number.
+ * If you don't need or use an app anymore, just uninstall it.
 
 ## What are ROMS?
 
-Have you ever noticed how your smartphone interface looks different from the one a family member of yours or a tablet your friend uses? This is because each seller that uses Android as their main OS modifies it to create their own ROM fitting for the need
-of the company and their devices, with it's own special settings and apps. 
+Have you ever noticed that your smartphone's interface looks different from a family member's? Despite them also having an android device? This is because each vendor that uses Android as their main OS modifies it to create their own ROM to fit their needs and promote their own ecosystem of apps.
 
-However, while their funcionality can varie, it's obvious that privacy wise their propietary software and OS can be in a really bad position for anyone that cares about keeping their data safe,
-and are known for restricting the user in a variety of aspects of the control of their own systems. Because of this, users at large have been inventing a variety of solutions and custom ROMS and FOSS apps to facilitate moving towards certain goals 
+While their functionality can vary, it's obvious that the proprietary nature of these custom vendor roms put anyone that actually cares about keeping their data secure in a bad position and are known to heavily restrict the freedom of the end user for the sake of control.
 
-Depending on your objectives and mobile device specifications, you may need to do your own research outside of the spectrum of this document. However, here is some standard information that you may want to get into it
+Because of this lack of freedom, many talented minds have taken a poke at the Open-Source nature of Android and have created their own set of custom ROMs and FOSS apps to strengthen the amount of control that the user has over their own devices.
+
+Depending on your objectives and mobile device specifications, you may need to do your own research past what this article can tell you. However, there are some general pieces of information that you may want to know first.
 
 ## What are Custom ROMS? 
-Because of the nature of the Project, a variety of user communities have made their general and privacy needs, which can go from the elimination of unwanted telemetry to the adding of features or even copying whole ecosystems to be used on devices that normally wouldn't allow them
+Because of the nature of these projects, a variety of communities have created new versions of the android operating system to fulfill their usage and privacy needs. This can range from the removal of all telemetry to the development of new features or even the expansion of ecosystems to be used on devices that normally would have no support whatsoever.
+
+
+-- TODO --
 
 ## What Custom ROMS are out there?
 
@@ -39,13 +41,13 @@ WARNING: Using a Custom ROM will void your guarranty. While the process of insta
 
 WE AREN'T RESPONSIBLE FOR ANYTHING YOU DO, AND REMEMBER TO READ INSTRUCTIONS CORRECTLY 
 
-  * LineageOS - As Vanilla Android gets
+  * LineageOS - As Vanilla as Android gets
   * Pixel Experience - Simulating Google's Pixel OS features
   * Paranoid Android - Vanilla Android, but with an aesthetically pleasant UI twist 
 
 Out of all of them, LineageOS tends to be the one to go for most people starting out, as it has compatibility with tons of devices, good stability and generally is supported for a long range of time and Android Versions.
 
-## What is FOSS Apps?
+## What are FOSS Apps?
 
 In today's technological landscape, is easy to forget the beginning of home made apps (homebrew, as some people may put it) that used to be all around the start of personal computers. Now on days, apps tend to be standarized and created by big technological companies like Google, Microsoft, Samsumg, etc.
 
@@ -54,7 +56,7 @@ Best on the effort of colaborators and users, FOSS Apps (as in Free Open Source 
 
 Some examples of the most popular ones
 
-  * F-Droid - The Biggest Repo market for FOSS Apps. Comes in a lot of custom flavors too
+  * F-Droid - The Biggest Repo market for FOSS Apps. Comes in a lot of flavours too, my favorite is Droidify.
   * Aurora Store - An alternative for the Play Store for those who don't want to give Google Data
   * Micro G Project - A Open Source version that covers the need of the Play Services (Play Store, Youtube, etc)
   * ReVanced - A general modificaton project to patch propietary apps. Such modifications can range from custom themes to blocking ads
