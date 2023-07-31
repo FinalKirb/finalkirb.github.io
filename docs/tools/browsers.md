@@ -69,10 +69,10 @@ As to which one to use, there's no real "true" answer here as I always find myse
 
 ## What Browser Extensions should I install?
 
-When it comes to Browser Extensions, you will want to be careful with what you install, as they may compromise your privacy but most importantly your security. Do not install too many Extensions, as a unique configuration can be used to fingerprint your browser with your identity (even through a VPN) and do not install random Extensions willy-nilly, as they could harm your privacy and may even be malicious in nature, less is more in this case. Here's a couple of Browser Extensions I use and can recommend:
+When it comes to Browser Extensions, you will want to be careful with what you install, as they may compromise your privacy and most importantly your browser's security. Do not install too many Extensions, as a very unique configuration can be used to fingerprint your browser with your identity (even through a VPN) and do not install random Extensions willy-nilly, as they could harm your privacy and may even be malicious in nature, less is more in this case. Here's a couple of Browser Extensions I use and can recommend:
 
 - uBlock Origin  
-  Efficient, Lightweight and Open-Source Content Blocker (Much more powerful than an Ad-Blocker!). Easily the best and most trusted choice to blocking ads and trackers on the internet. I strongly believe everyone should have this extension installed in all of their browsers, in my opinion the internet is nearly unusable without it.
+  Efficient, Lightweight and Open-Source Content Blocker (Much more powerful than an Ad-Blocker!). Easily the best and most trusted choice to blocking ads and trackers on the internet. I strongly believe every single person on the internet should have this extension installed in all of their browsers, in my opinion the internet is unusable without it.
 - Bitwarden  
   Encrypted Cloud-Based Password Manager extension with Auto-Fill functionality on nearly all Sites. More on this can be found in my Article about [Password Managers](/tools/password-managers.md).
 - SponsorBlock  
