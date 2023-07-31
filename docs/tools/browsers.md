@@ -71,11 +71,11 @@ As to which one to use, there's no real "true" answer here as I always find myse
 
 When it comes to Browser Extensions, you will want to be careful with what you install, as they may compromise your privacy and most importantly your browser's security. Do not install too many Extensions, as a very unique configuration can be used to fingerprint your browser with your identity (even through a VPN) and do not install random Extensions willy-nilly, as they could harm your privacy and may even be malicious in nature, less is more in this case. Here's a couple of Browser Extensions I use and can recommend:
 
-- uBlock Origin  
-  Efficient, Lightweight and Open-Source Content Blocker (Much more powerful than an Ad-Blocker!). Easily the best and most trusted choice to blocking ads and trackers on the internet. I strongly believe every single person on the internet should have this extension installed in all of their browsers, in my opinion the internet is unusable without it.
-- Bitwarden  
-  Encrypted Cloud-Based Password Manager extension with Auto-Fill functionality on nearly all Sites. More on this can be found in my Article about [Password Managers](/tools/password-managers.md).
-- SponsorBlock  
-  Skips sponsor segments, promotions and adds video highlights to youtube videos. Very useful if you only want to watch the content that is relevant and save time.
-- Return Youtube Dislike  
-  As the name implies, this Extensions returns the dislike view of Youtube videos. Due to technical reasons it's not 100% accurate, but serves as a good guess to stay away from sketchy/malicious youtube content and bad tutorials.
+uBlock Origin  
+- Efficient, Lightweight and Open-Source Content Blocker (Much more powerful than an Ad-Blocker!). Easily the best and most trusted choice to blocking ads and trackers on the internet. I strongly believe every single person on the internet should have this extension installed in all of their browsers, in my opinion the internet is unusable without it.
+Bitwarden  
+- Encrypted Cloud-Based Password Manager extension with Auto-Fill functionality on nearly all Sites. More on this can be found in my Article about [Password Managers](/tools/password-managers.md).
+SponsorBlock  
+- Skips sponsor segments, promotions and adds video highlights to youtube videos. Very useful if you only want to watch the content that is relevant and save time.
+Return Youtube Dislike  
+- As the name implies, this Extensions returns the dislike view of Youtube videos. Due to technical reasons it's not 100% accurate, but serves as a good guess to stay away from sketchy/malicious youtube content and bad tutorials.
