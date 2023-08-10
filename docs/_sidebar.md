@@ -6,3 +6,4 @@
 - Tools
   * [Browsers](/tools/browsers.md)
   * [Password Managers](/tools/password-managers.md)
+  * [Android](/tools/android.md)
