@@ -1,5 +1,8 @@
 # Android
 
+> Thank you, Bee for writing the basis of this article!
+
+
 ## What is Android?
 
 The AOSP (Android Open-Source Project), also known as Android is an Open-Source Kernel based on Linux, primarily used for mobile devices such as the smartphones and tablets that we use on a daily basis. While a significant portion of the code involves proprietary software designed for closed ecosystems by Google and device manufacturers, the project's openness and accessibility to the public have given rise to a diverse array of custom ecosystem versions, commonly referred to as ROMs.
@@ -19,12 +22,12 @@ For the people that prefer a concise overview over delving into the detailed con
 
 ## What are FOSS Apps?
 
-In today's technological landscape, it's easy to forget the beginning of home-made apps (homebrew, as some people put it) that used to be all around the start of personal computers. Nowadays, apps tend to be centralized and created by the big tech companies such as Google, Microsoft, Samsung, etc.
+In today's technological landscape, it's easy to forget the beginning of home-made apps (homebrew, as some people put it) that used to be all around the start of personal computers. Nowadays, apps tend to be centralized and created by the big tech companies such as Google, Microsoft, Samsung, you get the picture.
 
-While this has given better accessibility and some convenience to consumers in some regard, this also has made a majority of apps not only abuse their pricing or slash their functionality, but are sometimes straight up dangerous for your security and privacy 
+While this has given better accessibility and some convenience to consumers in some regard, this also has made a majority of apps not only abuse their pricing or slash their functionality, but are sometimes straight up dangerous for your security and privacy.
 From the best effort of collaborators and users such as yourself, FOSS Apps (as in Free Open Source Software) apps can become a superior alternative to some of the popular proprietary apps that are out there on the market and may even allow the modification of certain apps from contributors to improve on their featureset.
 
-Here are a couple of FOSS apps I can generally recommend
+Here are a couple of FOSS apps I can generally recommend:
 
   * F-Droid - The Biggest Repo market for FOSS Apps. Comes in a lot of flavours too, my favorite is Droid-ify.
   * Aurora Store - An alternative for the Google Play Store for those who don't want to rely on Google.
@@ -33,7 +36,7 @@ Here are a couple of FOSS apps I can generally recommend
   * Aegis Authenticator - FOSS 2FA Authenticator, encrypted behind a password/biometrics with automatic backup functionality.
   * FairEmail / K-9 Mail - An alternative client for email services that support external IMAP (Not to confuse with the Email service itself!)
   * Signal - Encrypted and actually secure and private messaging, get WhatsApp outta here!
-  * QKSMS - FOSS SMS Client
+  * QKSMS - Privacy-respecting SMS Client
 
   * DAVx5 - Calender/Contacts/Notes/Tasks synchronization
   * QuillPad - Privacy-friendly notetaking, supports Nextcloud Syncing
@@ -41,7 +44,7 @@ Here are a couple of FOSS apps I can generally recommend
 
 For social media, there are custom clients created by the community that may offer additional features and better privacy
  * Youtube - Newpipe
- * Reddit - Infinity, Boost, Relay, or Stealth
+ * Reddit - Infinity / Boost / Relay / Stealth
  * Twitter - Nitter
  * Mastodon - Tusky / Subway Tooter / Shitter
 
@@ -66,9 +69,9 @@ While there are a large amount of them, here's a list of the most supported ones
 
 WARNING: Using a Custom ROM will void your warranty. While the process of installation can be simple due to the clear instructions (especially on Lineage OS), there is still a slight possibility for issues and in the worst case scenario, a chance of bricking the device. Remember to do your own research for your device first.
 
-WE AREN'T RESPONSIBLE FOR ANYTHING YOU DO, AND REMEMBER TO READ THE DEVELOPER'S INSTRUCTIONS CORRECTLY 
+WE AREN'T RESPONSIBLE FOR ANYTHING YOU DO, AND REMEMBER TO READ THE DEVELOPER'S INSTRUCTIONS THOROUGHLY, MAKE SURE IT IS SUPPORTED ON YOUR DEVICE.
 
-  * LineageOS - As Vanilla as Android gets
+  * LineageOS - As Vanilla as Android gets. No telemetry, no Google.
   * Pixel Experience - Simulating Google's Pixel OS features on unsupported devices
   * Paranoid Android - Vanilla Android, but with an aesthetically pleasant UI twist
 
@@ -91,4 +94,3 @@ An example of this is Google's Play Integrity API, the result of their constant 
 That being said, this is just speculation from our part, there is actually no way to know the true prevalance of rooting, but it is true that it's a decision that the user has to do, and have enough preparation and understanding of the consequences and measures before doubling down on it.
 
 TL:DR: Do your own research and decide if it's worth it to you.
-
