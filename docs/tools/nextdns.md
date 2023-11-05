@@ -2,7 +2,7 @@
 
 ## What is DNS?
 
-## Why is it important to privacy?
+## Why is it important to my privacy?
 
 ## What DNS Provider should I use?
 
