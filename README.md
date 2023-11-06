@@ -4,7 +4,9 @@
 
 </div>
 
-Welcome to my repository! This repo serves as a collection of guides, tech advice, and recommendations of various technologies. The content itself is written with Markdown files and the site is powered by Docsify, ultimately allowing for easy navigation and a pleasant reading experience.
+## About
+
+Welcome to my repository! This repo serves as a collection of guides, tech advice, and recommendations of various technologies. The content itself is written with Markdown files and the site is powered by Docsify and hosted on github pages with my custom domain.
 
 ## Contents
 
@@ -12,12 +14,7 @@ Welcome to my repository! This repo serves as a collection of guides, tech advic
 - [Getting Started](#getting-started)
 - [Contributions](#contributions)
 - [License](#license)
-- [Contact](#contact)
 - [Credits](#credits)
-
-## About
-
-The purpose of this website is to document my knowledge, insights, and experiences in the world of technology and keep a record of information that is accessible to anyone.
 
 ## Getting Started
 
@@ -25,22 +22,18 @@ To access the website and explore the guides, visit [FinalKirb.com](https://fina
 
 ## Contributions
 
-I appreciate contributions from the community to enhance the content and make it more comprehensive. If you would like to contribute, please follow these steps:
+I appreciate contributions from the community to enhance the site's content and make it more comprehensive. If you would like to contribute, please follow the following steps:
 
 1. Fork the repository.
 2. Create a new branch for your changes.
 3. Make your modifications and additions.
-4. Submit a pull request, describing the changes you've made.
+4. Submit a pull request, describing the changes/additions you've made.
 
-Your contributions can be in the form of fixing errors, improving existing content, writing new articles or suggesting new topics to cover. Let's work together to create a valuable resource for the digital world!
+Your contributions can be in the form of fixing errors, improving existing content, writing new articles or suggesting new topics to cover!
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You are able to freely to use, modify, and distribute the content as per the terms of the license.
-
-## Contact
-
-If you have any questions or suggestions regarding the content, feel free to reach out to me.
 
 ## Credits
 
