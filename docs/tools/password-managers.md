@@ -30,7 +30,7 @@ That's the key tip to cybersecurity, or hell.. security as a whole; Redundancy. 
 
 Unfortunately, yes. If you want redundancy on your online accounts, you have to go through the time consuming process of resetting all of your passwords and have your password manager generate new ones. manually. by hand.
 
-Fortunately, you only have to do it once in your entire lifetime. ever. It may be a pain in the ass once, but in my eyes, the benefits definitely outweigh the trouble over the long term.
+Fortunately, you only have to do it once in your entire lifetime. ever. It may be a pain in the ass once, but in my eyes, the benefits definitely outweigh the trouble over the long term. Disaster usually happens when you *think* you're safe, when in fact you aren't.
 
 ## Which password manager should I choose?
 
