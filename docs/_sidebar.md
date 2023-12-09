@@ -2,8 +2,8 @@
 
 - [Home](/)
 - Privacy
-  * [What is Privacy?](/docs/content/privacy/whatisprivacy.md)
+  * [What is Privacy?](/content/privacy/whatisprivacy.md)
 - Tools
-  * [Android](/docs/content/tools/android.md)
-  * [Browsers](/docs/content/tools/browsers.md)
-  * [Password Managers](/docs/content/tools/password-managers.md)
+  * [Android](/content/tools/android.md)
+  * [Browsers](/content/tools/browsers.md)
+  * [Password Managers](/content/tools/password-managers.md)
