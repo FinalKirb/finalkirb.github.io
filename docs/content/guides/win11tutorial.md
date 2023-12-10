@@ -338,10 +338,10 @@ Congratulations, we're now on the desktop! Now you can happily unplug your USB-S
 - Go to "Accounts"
 - "Your info"; Set a profile picture under "Adjust your photo"
 
- 
+
 <img src="../../media/win11tutorial/win11tutorial_074.png" width="50%" style="float: left; margin-right: 10px;">
 <div style="clear: both;"></div>
- 
+
  - "Sign-in options"; Enable alternative sign-in methods to your preference, for higher security don't rely on biometrics and use a hardware-key if possible
 
 
@@ -453,7 +453,7 @@ Congratulations, we're now on the desktop! Now you can happily unplug your USB-S
 	- Click on Restart Explorer
 - Close Winaero Tweaker
 
-<img src="../../media/win11tutorial/win11tutorial_0100.png" width="50%" style="float: left; margin-right: 10px;">
+<img src="../../media/win11tutorial/win11tutorial_100.png" width="50%" style="float: left; margin-right: 10px;">
 <div style="clear: both;"></div>
 
 <img src="../../media/win11tutorial/win11tutorial_101.png" width="50%" style="float: left; margin-right: 10px;">
@@ -479,18 +479,20 @@ Roughly 100 Processes and 1.5 - 2GB of RAM Usage after a reboot.
 <div style="clear: both;"></div>
 
 ## Phase 5: Recommended Programs
-This will be a list of programs I recommend you to install on windows. These are personal recommendations and you are free to use the software that you prefer
+This will be a list of programs I recommend you to install on windows if needed. These are simply personal recommendations, you're free to use whatever software you prefer
 
 Web Browser: Firefox
 E-Mail Client: Thunderbird
-Media Player: W11 Media Player, VLC Media Player, MPC-HC
-Text Editor: Notepad++
-File Archiver: 7-Zip
 Office Suite: Libreoffice, OnlyOffice
-System Cleaner: Bleachbit
+Text Editor: Notepad++
 Anti-Virus: Windows Defender, Malwarebytes for manual scans
+File Archiver: 7-Zip
+Disk Analyzer: Wiztree
+Gaming: Steam
+Media Player: VLC, MPC-HC
+Photo Editing: Paint.NET (getpaint.net)
+Video Editing: Kdenlive, Davinci Resolve
+Audio Editing: Audacity
+Torrenting: qBittorrent
 Hardware Info/Monitoring: Hwinfo64, CPU-Z, GPU-Z,
 GPU Overclocking/Fan Tuning: MSI Afterburner
-
-Tutorial
-Tutorial123

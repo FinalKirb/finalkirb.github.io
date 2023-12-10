@@ -1,8 +1,10 @@
 <!-- TODO: Complete with your own sidebar structure and enable sidebar in index.html - or delete this file. -->
 
 - [Home](/)
+- Guides
+  * [Windows 11 Install](/content/guides/win11tutorial.md)
 - Privacy
-  * [What is Privacy?](/content/privacy/whatisprivacy.md)
+  * [What is privacy?](/content/privacy/whatisprivacy.md)
 - Tools
   * [Android](/content/tools/android.md)
   * [Browsers](/content/tools/browsers.md)
