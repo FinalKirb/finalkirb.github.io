@@ -58,7 +58,8 @@ Make sure to back up all of your important data to an external/second drive, we 
 
 
 ## Phase 3: Setting up Windows 11
-!!! Disconnect your Computer from the Internet by unplugging your computer from ethernet and don't connect to a Wifi network during the setup phase !!!
+- !!! Disconnect your Computer from the Internet by unplugging your computer from ethernet and don't connect to a Wifi network during the setup phase !!!
+
 - Select your Country/Region and proceed with "Yes"
 - Select your Keyboard layout and proceed with "Yes"
 
@@ -469,6 +470,7 @@ Congratulations, we're now on the desktop! Now you can happily unplug your USB-S
 - Open the Task Manager
 	- Open "Startup apps"
 	- Disable Programs that you don't need to autostart every time, for example microsoft edge. Make sure to check this after you've installed your software.
+
 Congratulations! You now have successfully installed Windows 11, removed most of the crap that comes preloaded on it, and made it more usable. The only thing left to do is for you to install your software and make this machine your own!
 Roughly 100 Processes and 1.5 - 2GB of RAM Usage after a reboot.
 
