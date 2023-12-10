@@ -58,7 +58,8 @@ Make sure to back up all of your important data to an external/second drive, we 
 
 
 ## Phase 3: Setting up Windows 11
-!!! Disconnect your Computer from the Internet by unplugging your computer from ethernet and don't connect to a Wifi network during the setup phase !!!
+- !!! Disconnect your Computer from the Internet by unplugging your computer from ethernet and don't connect to a Wifi network during the setup phase !!!
+
 - Select your Country/Region and proceed with "Yes"
 - Select your Keyboard layout and proceed with "Yes"
 
@@ -469,6 +470,7 @@ Congratulations, we're now on the desktop! Now you can happily unplug your USB-S
 - Open the Task Manager
 	- Open "Startup apps"
 	- Disable Programs that you don't need to autostart every time, for example microsoft edge. Make sure to check this after you've installed your software.
+
 Congratulations! You now have successfully installed Windows 11, removed most of the crap that comes preloaded on it, and made it more usable. The only thing left to do is for you to install your software and make this machine your own!
 Roughly 100 Processes and 1.5 - 2GB of RAM Usage after a reboot.
 
@@ -478,21 +480,25 @@ Roughly 100 Processes and 1.5 - 2GB of RAM Usage after a reboot.
 <img src="../../media/win11tutorial/win11tutorial_107.png" width="50%" style="float: left; margin-right: 10px;">
 <div style="clear: both;"></div>
 
-## Phase 5: Recommended Programs
-This will be a list of programs I recommend you to install on windows if needed. These are simply personal recommendations, you're free to use whatever software you prefer
+## Phase 5: Recommended Software
+This will be a list of software I recommend you to install on windows if needed. These are simply personal recommendations, you're free to use whatever software you prefer in the end:
 
-Web Browser: Firefox
-E-Mail Client: Thunderbird
-Office Suite: Libreoffice, OnlyOffice
-Text Editor: Notepad++
-Anti-Virus: Windows Defender, Malwarebytes for manual scans
-File Archiver: 7-Zip
-Disk Analyzer: Wiztree
-Gaming: Steam
-Media Player: VLC, MPC-HC
-Photo Editing: Paint.NET (getpaint.net)
-Video Editing: Kdenlive, Davinci Resolve
-Audio Editing: Audacity
-Torrenting: qBittorrent
-Hardware Info/Monitoring: Hwinfo64, CPU-Z, GPU-Z,
-GPU Overclocking/Fan Tuning: MSI Afterburner
+- Dependencies: VCRedist++, .NET Framework
+
+- Web Browser: Firefox
+- E-Mail Client: Thunderbird
+- Office Suite: Libreoffice, OnlyOffice
+- Text Editor: Notepad++
+- Anti-Virus: Windows Defender, Malwarebytes/virustotal.com for manual scans
+- File Archiver: 7-Zip
+- Storage Analyzer: Wiztree
+- Gaming: Steam, Prism Launcher (Minecraft)
+- Media Player: MPC-HC, VLC, mpv
+- Drawing: Krita, Inkscape
+- Photo Editing: Paint.NET (getpaint.net)
+- Video Editing: Kdenlive, Davinci Resolve
+- Video Recording: OBS
+- Audio Editing: Audacity
+- Torrenting: qBittorrent
+- Hardware Info/Monitoring: Hwinfo64, CPU-Z, GPU-Z,
+- GPU Overclocking/Fan Tuning: MSI Afterburner
