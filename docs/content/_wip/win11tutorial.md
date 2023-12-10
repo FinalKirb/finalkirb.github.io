@@ -13,36 +13,42 @@ Make sure to back up all of your important data to an external/second drive, we 
 
 ## Phase 2: Installing Windows 11
 - Select your Language, Time/Currency Format & Keyboard Layout
-	- Press "Next" and "Install now"
+
 
 <img src="../../media/win11tutorial/win11tutorial_001.png" width="50%" style="float: left; margin-right: 10px;">
 <div style="clear: both;"></div>
+
+- Press "Next" and "Install now"
 
 <img src="../../media/win11tutorial/win11tutorial_002.png" width="50%" style="float: left; margin-right: 10px;">
 <div style="clear: both;"></div>
 
 - Click on "I don't have a product key" (We will come back to this later :3)
-- Select "Windows 11 Pro", press "Next" and accept the eula
+
 
 <img src="../../media/win11tutorial/win11tutorial_004.png" width="50%" style="float: left; margin-right: 10px;">
 <div style="clear: both;"></div>
 
+- Select "Windows 11 Pro" and press "Next"
+
 <img src="../../media/win11tutorial/win11tutorial_005.png" width="50%" style="float: left; margin-right: 10px;">
 <div style="clear: both;"></div>
+
+- Accept the Microsoft EULA and proceed
 
 <img src="../../media/win11tutorial/win11tutorial_006.png" width="50%" style="float: left; margin-right: 10px;">
 <div style="clear: both;"></div>
 
 - Choose "Customized: Install Windows only (advanced)"
 
+<img src="../../media/win11tutorial/win11tutorial_007.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
+
 - Select the drive/partition you want to install Windows 11 to (Marked in blue)
 	- If you see multiple partitions on the drive you want to install Windows to, you must select and delete each partition to use the entire drive for the new install
 	- Make sure you're selecting the correct drive! When you proceed from this page, the selected drive or partition will be fully formatted and all data will be lost!
 		- If you're unsure, physically disconnect every drive until you only have your USB-Stick and the drive you want to install windows to. Press "Refresh" after disconnecting a storage device
-- Press "Next" and wait for Windows to format and install to the selected drive
-
-<img src="../../media/win11tutorial/win11tutorial_007.png" width="50%" style="float: left; margin-right: 10px;">
-<div style="clear: both;"></div>
+- Press "Next" and wait for Windows to format and install to the selected drive, it will automatically restart to the setup.
 
 <img src="../../media/win11tutorial/win11tutorial_009.png" width="50%" style="float: left; margin-right: 10px;">
 <div style="clear: both;"></div>
