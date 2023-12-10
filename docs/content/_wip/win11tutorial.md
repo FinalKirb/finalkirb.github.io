@@ -13,7 +13,9 @@ Make sure to back up all of your important data to an external/second drive, we 
 
 ## Phase 2: Installing Windows 11
 - Select your Language, Time/Currency Format & Keyboard Layout and click on "Next"
+
 <img src="../../media/win11tutorial/win11tutorial_001.png" width="50%" style="float: left; margin-right: 10px;">
+
 - Click on "Install now"
 - Click on "I don't have a product key" (We will come back to this later :3)
 - Select "Windows 11 Pro"
