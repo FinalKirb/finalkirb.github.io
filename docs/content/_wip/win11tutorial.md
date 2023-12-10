@@ -12,7 +12,8 @@ Make sure to back up all of your important data to an external/second drive, we 
 
 
 ## Phase 2: Installing Windows 11
-- Select your Language, Time/Currency Format & Keyboard Layout and click on "Next" and "Install now"
+- Select your Language, Time/Currency Format & Keyboard Layout
+	- Press "Next" and "Install now"
 
 <img src="../../media/win11tutorial/win11tutorial_001.png" width="50%" style="float: left; margin-right: 10px;">
 <div style="clear: both;"></div>
@@ -21,16 +22,33 @@ Make sure to back up all of your important data to an external/second drive, we 
 <div style="clear: both;"></div>
 
 - Click on "I don't have a product key" (We will come back to this later :3)
-- Select "Windows 11 Pro"
-- Click on "Next"
-- Accept the EULA and click on "Next"
+- Select "Windows 11 Pro", press "Next" and accept the eula
+
+<img src="../../media/win11tutorial/win11tutorial_004.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
+
+<img src="../../media/win11tutorial/win11tutorial_005.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
+
+<img src="../../media/win11tutorial/win11tutorial_006.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
+
 - Choose "Customized: Install Windows only (advanced)"
-- Select the drive/partition you want to install Windows 11 to, it's recommended to remove every drive other than the USB-Stick and where you install Windows to to reduce confusion, you can check which drive you're selecting based on size
-	- Make sure you're selecting the correct drive! When you proceed from this page, the selected drive or partition will be fully formatted and all data will be lost!
-		- If you're unsure, physically disconnect every drive until you only have your USB-Stick and the drive you want to install windows to. Press on "Refresh" when unplugging anything
+
+- Select the drive/partition you want to install Windows 11 to (Marked in blue)
 	- If you see multiple partitions on the drive you want to install Windows to, you must select and delete each partition to use the entire drive for the new install
-- Click on "Next"
-- Wait for Windows to format and install on your selected drive, it will automatically restart when it's done
+	- Make sure you're selecting the correct drive! When you proceed from this page, the selected drive or partition will be fully formatted and all data will be lost!
+		- If you're unsure, physically disconnect every drive until you only have your USB-Stick and the drive you want to install windows to. Press "Refresh" after disconnecting a storage device
+- Press "Next" and wait for Windows to format and install to the selected drive
+
+<img src="../../media/win11tutorial/win11tutorial_007.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
+
+<img src="../../media/win11tutorial/win11tutorial_009.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
+
+<img src="../../media/win11tutorial/win11tutorial_011.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
 
 
 ## Phase 3: Setting up Windows 11
@@ -38,14 +56,14 @@ Make sure to back up all of your important data to an external/second drive, we 
 - Select your Country/Region and proceed with "Yes"
 - Select your Keyboard layout and proceed with "Yes"
 	- Add a second keyboard layout if you wish, in my case I'll "Skip" since I don't need it
-- When Windows prompts you to connect to a network, click on "I don't have internet" and "Continue with limited setup", this will let us create a local account instead of being forced to tie our machine to a microsoft account.
-	- You can sign in to the Microsoft Store seperately later on if you need to access purchased software, the difference is that you will only be logged in on the Microsoft Store, not the entire OS.
+- When Windows prompts you to connect to a network, click on "I don't have internet" and "Continue with limited setup", this will let us create a local account instead of being forced to tie our machine to a microsoft account
+	- You can sign in to the Microsoft Store seperately later on if you need to access purchased software, the difference is that you will only be logged in on the Microsoft Store, not the entire OS
 - Choose a hostname for your computer and proceed with "Next"
 - Choose a username for your new local account and proceed with "Next"
 	- If you have to select between a "Personal Account" and a "Work or Business account" and log in to an account, make sure you're disconnected from any wired and wireless networks, power off your machine and start again from Phase 3
 - Enter and confirm your password
 - You are now prompted to answer three "Security Questions" that can be used to reset your local accounts' password in case you forget it.
-	- I heavily recommend not answering these 'Security Questions' truthfully, as it's not very hard for a third party to find this information, especially if you've already been victim to online data breaches or use social media. Instead, use totally bogus answers and note them down in a password manager or another kind of encrypted vault to keep them safe.
+	- I heavily recommend not answering these 'Security Questions' truthfully, as it's not very hard for a third party to find this information, especially if you've already been victim to online data breaches or use social media. Instead, use totally bogus answers and note them down in a password manager or another kind of encrypted vault to keep them safe
 
 
 ### Phase 3.5: Giving Microsoft the middle finger
@@ -70,13 +88,13 @@ Congratulations, we're now on the desktop! Now you can happily unplug your USB-S
 - This should open a new window, click on it and select "[7] Extras" by pressing "7" on your Keyboard
 - Select "[1] Change Windows Edition" by pressing "1" on your Keyboard
 - Select "[6] Enterprise" by pressing "6" and "Enter" on your Keyboard
-- Wait until it finishes and press "Enter" to return.
+- Wait until it finishes and press "Enter" to return
 - Restart your system
 
 - Open the Terminal as administrator once again
 - Press "Up" and "Enter" on your Keyboard to run to open the MAS Script again
 - Select "[1] HWID | Windows | Permanent" by pressing "1" on your Keyboard
-- Wait until it finishes and press "Enter" to return.
+- Wait until it finishes and press "Enter" to return
 - Close the Script and the Terminal
 
 - Open the System Settings and update your system under...
@@ -87,7 +105,7 @@ Congratulations, we're now on the desktop! Now you can happily unplug your USB-S
 	- When the updates are done, click on "Restart Now"
 		- Note that you may need to repeat this cycle of updating and restarting a couple more times to be fully up to date, mileage may vary!
 
-- Make sure to download Drivers
+- Before proceeding, make sure to download and install all Drivers from your Manufacturer's/Motherboard's Product page
 
 - Open the System Settings and configure...
 
