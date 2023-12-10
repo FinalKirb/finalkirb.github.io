@@ -13,6 +13,7 @@ Make sure to back up all of your important data to an external/second drive, we 
 
 ## Phase 2: Installing Windows 11
 - Select your Language, Time/Currency Format & Keyboard Layout and click on "Next"
+<img src="../../media/win11tutorial/win11tutorial_001.png" width="50%" style="float: left; margin-right: 10px;">
 - Click on "Install now"
 - Click on "I don't have a product key" (We will come back to this later :3)
 - Select "Windows 11 Pro"
@@ -81,7 +82,7 @@ Congratulations, we're now on the desktop! Now you can happily unplug your USB-S
 	- When the updates are done, click on "Restart Now"
 		- Note that you may need to repeat this cycle of updating and restarting a couple more times to be fully up to date, mileage may vary!
 
-- Make sure to download Drivers 
+- Make sure to download Drivers
 
 - Open the System Settings and configure...
 
@@ -92,7 +93,7 @@ Congratulations, we're now on the desktop! Now you can happily unplug your USB-S
 	- "Diagnostics & feedback"; Click on the "Delete" button under "Delete diagnostic data". Set the "Feedback frequency" to "Never"
 	- "Activity history"; Disable "Store my activity history on this device" and click on "Clear history"
 	- "Search permissions"; Disable "Cloud content search" for Microsoft and Work/School accounts. Disable and clear "Search history on this device". Disable "Show search highlights". Turn off SafeSearch at your own discretion if you're fine with potentially viewing adult content.
-	
+
 - "System"
 	- "Display"; Configure your display settings with the correct Resolution, Refresh Rate, Display Order and Scale dependant on your setup. Optionally enable Night Light for comfortable viewing at night
 		- Note that you may need to update your graphics drivers to use a higher resolution/refresh rate
@@ -101,7 +102,7 @@ Congratulations, we're now on the desktop! Now you can happily unplug your USB-S
 - "Bluetooth & Devices"
 	- "Devices"; Pair Bluetooth devices such as wireless mice, controllers or headphones
 	- "Mouse"; Adjust Mouse Settings to your liking, I recommend disabling "Enhanced pointer precision" under "Advanced Mouse Settings" -> "Pointer Options"
-- "Personalization" 
+- "Personalization"
 	- "Colors"; To enable Dark Mode, select "Dark" under "Choose your mode". You can also change your accent color if you wish
 	- "Lock Screen"; I prefer switching from "Windows Spotlight" to a "picture" under "Personalise your lock screen" and disabling "Get fun facts, tips, tricks and more on your lock screen"
 	- "Start"; Switch to the "More pins" layout and disabling "Show recently added apps" and "Show recommendations for tips, shortcuts, new apps, and more"
