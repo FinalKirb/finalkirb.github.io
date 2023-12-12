@@ -409,4 +409,5 @@ https://github.com/yokoffing/Betterfox/wiki/Common-Overrides
 	<img src="../../media/firefoxsetup/firefoxsetup_082.png" width="50%" style="float: left; margin-right: 10px;">
 	<div style="clear: both;"></div>
 
-Congratulations! You now have an optimal firefox setup that doesn't spy on you, performs like a charm and protects your privacy by blocking online ads and trackers.
+Congratulations! You now have an optimal firefox setup that doesn't spy on you, performs like an absolute charm and protects your online privacy by blocking online ads and trackers at no cost!
+If you wish to sync your browsing history, bookmarks, etc. you can log in to a Mozilla Account
