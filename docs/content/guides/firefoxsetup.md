@@ -303,8 +303,8 @@ https://github.com/yokoffing/Betterfox/wiki/Common-Overrides
 		- Container Tabs let you seperate your browsing activites through different color-coded containers. These containers are isolated from each other, meaning that the logins from your "School" container are completely seperated from the rest of your browser. This lets you stay logged in to your personal Google account while browsing at home. Need to access your school's gmail? Just open gmail in your dedicated "School" container and log in without any crossover, as if it was a new browser.
 
 
-		<img src="../../media/firefoxsetup/firefoxsetup_061.png" width="50%" style="float: left; margin-right: 10px;">
-		<div style="clear: both;"></div>
+<img src="../../media/firefoxsetup/firefoxsetup_061.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
 
 ## Phase 4: NextDNS
 - Open https://nextdns.io
@@ -347,8 +347,8 @@ https://github.com/yokoffing/Betterfox/wiki/Common-Overrides
 		- Click on "Add"
 			- Unless you know what you're doing, DON'T RANDOMLY ADD BLOCKLISTS. They may no longer be updated, may contain duplicate links or false positives.
 
-			<img src="../../media/firefoxsetup/firefoxsetup_070.png" width="50%" style="float: left; margin-right: 10px;">
-			<div style="clear: both;"></div>
+		<img src="../../media/firefoxsetup/firefoxsetup_070.png" width="50%" style="float: left; margin-right: 10px;">
+		<div style="clear: both;"></div>
 
 	- Under "Native Tracking Protection", click on "Add"
 		- Add all of the brands you use. There's no advantage in adding brands you don't have, but there's also no disadvantage in adding unused brands either
@@ -363,51 +363,52 @@ https://github.com/yokoffing/Betterfox/wiki/Common-Overrides
 	- Enable "Allow Affiliate & Tracking links"
 		- Leaving this disabled could cause some false positives when opening email links, your IP Address will be hidden
 
-		<img src="../../media/firefoxsetup/firefoxsetup_073.png" width="50%" style="float: left; margin-right: 10px;">
-		<div style="clear: both;"></div>
+<img src="../../media/firefoxsetup/firefoxsetup_073.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
+
 - Open the "Settings" tab
 	- Disable "Enable Logs"
 		- If you want to have Logs of your DNS Queries, make sure to set the Storage Location to Switzerland and configure the Retention time
 
-		<img src="../../media/firefoxsetup/firefoxsetup_074.png" width="50%" style="float: left; margin-right: 10px;">
-		<div style="clear: both;"></div>
+<img src="../../media/firefoxsetup/firefoxsetup_074.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
 
-	- Enable "Cache Boost"
+- Enable "Cache Boost"
 
-	<img src="../../media/firefoxsetup/firefoxsetup_076.png" width="50%" style="float: left; margin-right: 10px;">
-	<div style="clear: both;"></div>
+<img src="../../media/firefoxsetup/firefoxsetup_076.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
 
-	- [Optional] Enable Web3
+- [Optional] Enable Web3
 
-	<img src="../../media/firefoxsetup/firefoxsetup_077.png" width="50%" style="float: left; margin-right: 10px;">
-	<div style="clear: both;"></div>
+<img src="../../media/firefoxsetup/firefoxsetup_077.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
 
 - Go back to the "Setup" tab
 
-	<img src="../../media/firefoxsetup/firefoxsetup_078.png" width="50%" style="float: left; margin-right: 10px;">
-	<div style="clear: both;"></div>
+<img src="../../media/firefoxsetup/firefoxsetup_078.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
 
 - Copy the link next to "DNS-over-HTTPS" (https://dns.nextdns.io/------)
 
-	<img src="../../media/firefoxsetup/firefoxsetup_079.png" width="50%" style="float: left; margin-right: 10px;">
-	<div style="clear: both;"></div>
+<img src="../../media/firefoxsetup/firefoxsetup_079.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
 
 - Open your Firefox Settings
 
-	<img src="../../media/firefoxsetup/firefoxsetup_080.png" width="50%" style="float: left; margin-right: 10px;">
-	<div style="clear: both;"></div>
+<img src="../../media/firefoxsetup/firefoxsetup_080.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
 
 - Go to "Privacy & Security"
 - Scroll all the way down to "DNS over HTTPS"
 - Click on either "Increased Protection" or "Max Protection"
 
-	<img src="../../media/firefoxsetup/firefoxsetup_081.png" width="50%" style="float: left; margin-right: 10px;">
-	<div style="clear: both;"></div>
+<img src="../../media/firefoxsetup/firefoxsetup_081.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
 
 - Select "Custom", paste your NextDNS link and press Enter, under your Provider you should now see dns.nextdns.io
 
-	<img src="../../media/firefoxsetup/firefoxsetup_082.png" width="50%" style="float: left; margin-right: 10px;">
-	<div style="clear: both;"></div>
+<img src="../../media/firefoxsetup/firefoxsetup_082.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
 
 Congratulations! You now have an optimal firefox setup that doesn't spy on you, performs like an absolute charm and protects your online privacy by blocking online ads and trackers at no cost!
 If you wish to sync your browsing history, bookmarks, etc. you can log in to a Mozilla Account
