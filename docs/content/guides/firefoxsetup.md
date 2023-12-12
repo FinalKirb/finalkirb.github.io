@@ -255,25 +255,25 @@ https://github.com/yokoffing/Betterfox/wiki/Common-Overrides
 <img src="../../media/firefoxsetup/firefoxsetup_052.png" width="50%" style="float: left; margin-right: 10px;">
 <div style="clear: both;"></div>
 
-	- Change your default Search Engine to Startpage (Or whatever you prefer) and enable "Use this search engine in Private Windows"
+- Change your default Search Engine to Startpage (Or whatever you prefer) and enable "Use this search engine in Private Windows"
 
-	<img src="../../media/firefoxsetup/firefoxsetup_053.png" width="50%" style="float: left; margin-right: 10px;">
-	<div style="clear: both;"></div>
+<img src="../../media/firefoxsetup/firefoxsetup_053.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
 
-	<img src="../../media/firefoxsetup/firefoxsetup_054.png" width="50%" style="float: left; margin-right: 10px;">
-	<div style="clear: both;"></div>
+<img src="../../media/firefoxsetup/firefoxsetup_054.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
 
-	- Scroll down and remove every listed search engine you don't need, in my setup I'm removing:
+- Scroll down and remove every listed search engine you don't need, in my setup I'm removing:
 		- Google
 		- Amazon.com
 		- Bing
 		- Wikipedia(en)
 
-		<img src="../../media/firefoxsetup/firefoxsetup_055.png" width="50%" style="float: left; margin-right: 10px;">
-		<div style="clear: both;"></div>
+<img src="../../media/firefoxsetup/firefoxsetup_055.png" width="50%" style="float: left; margin-right: 10px;">
+	<div style="clear: both;"></div>
 
-		<img src="../../media/firefoxsetup/firefoxsetup_056.png" width="50%" style="float: left; margin-right: 10px;">
-		<div style="clear: both;"></div>
+<img src="../../media/firefoxsetup/firefoxsetup_056.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
 
 - Open a new tab and search for something with Startpage
 - Open the Settings via the gear icon
