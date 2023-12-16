@@ -1,15 +1,15 @@
 # Kirb's Optimal Firefox Setup
 
 Sources
-https://github.com/yokoffing/Betterfox
-https://github.com/yokoffing/NextDNS-Config
-https://github.com/yokoffing/filterlists
+- https://github.com/yokoffing/Betterfox
+- https://github.com/yokoffing/NextDNS-Config
+- https://github.com/yokoffing/filterlists
 
 Warning: Following this setup will disable saving passwords and credit cards on the browser, to enable them, paste the override settings from the Betterfox documentation before copying over your "user.js" file
 https://github.com/yokoffing/Betterfox/wiki/Common-Overrides
 
 ## Phase 1: Installing Firefox
-- Download the Firefox Installer from Firefox.com
+- Download the Firefox Installer from https://firefox.com
 
 <img src="../../media/firefoxsetup/firefoxsetup_001.png" width="50%" style="float: left; margin-right: 10px;">
 <div style="clear: both;"></div>
@@ -194,16 +194,15 @@ https://github.com/yokoffing/Betterfox/wiki/Common-Overrides
 <div style="clear: both;"></div>
 
 - Expand all of the categories and enable the following Filter lists:
-
-<img src="../../media/firefoxsetup/firefoxsetup_040.png" width="50%" style="float: left; margin-right: 10px;">
-<div style="clear: both;"></div>
-
 	- Block Outsider Intrusion into LAN
 	- Easylist - Annoyances
 	- uBlock filters - Annoyances
 
-	<img src="../../media/firefoxsetup/firefoxsetup_041.png" width="50%" style="float: left; margin-right: 10px;">
-	<div style="clear: both;"></div>
+<img src="../../media/firefoxsetup/firefoxsetup_040.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
+
+<img src="../../media/firefoxsetup/firefoxsetup_041.png" width="50%" style="float: left; margin-right: 10px;">
+<div style="clear: both;"></div>
 
 - Open https://github.com/yokoffing/filterlists and press "Subscribe" to the following filterlists:
 	- Hagezi's Personal Blocklist
