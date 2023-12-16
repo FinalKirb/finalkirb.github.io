@@ -4,7 +4,7 @@ Current state: 10th December 2023
 ## Phase 1: Preparing your install
 Make sure to back up all of your important data to an external/second drive, we are not responsible for any data loss or other issues that occur during or after following this guide.
 
-- Download a Windows 11 ISO file from https://www.microsoft.com/en-us/software-download/windows11
+- Download a Windows 11 Consumer ISO file in your language from https://massgrave.dev/windows_11_links.html
 - Get a 16GB+ USB-Stick and use the Windows 11 ISO to create a USB Installation Media, using a piece of Software like Rufus or Balena Etcher
 - Plug in your newly flashed USB Installation Media and open the Boot Menu on your computer, typically available by spam-pressing F11 or F12 on your keyboard while your computer is booting. (The exact key to press depends on your Motherboard)
 - Select your Windows 11 Installation Media
