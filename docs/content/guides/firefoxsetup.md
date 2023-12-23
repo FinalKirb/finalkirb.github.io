@@ -205,9 +205,11 @@ https://github.com/yokoffing/Betterfox/wiki/Common-Overrides
 <div style="clear: both;"></div>
 
 - Open https://github.com/yokoffing/filterlists and press "Subscribe" to the following filterlists:
-	- Hagezi's Personal Blocklist
+	- Hagezi's Personal DNS Blocklist
 	- Actually Legitimate URL Shortener Tool
-	- yokoffing's Annoyance list
+ 	- [Optional] yokoffing's Annoyance list
+ 		- Removes clutter, mostly in social media and news sites.
+   		- E.g. removes "trends" on twitter and "related" / "read more" sections on some sites
 
 	<img src="../../media/firefoxsetup/firefoxsetup_042.png" width="50%" style="float: left; margin-right: 10px;">
 	<div style="clear: both;"></div>
