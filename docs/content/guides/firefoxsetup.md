@@ -207,9 +207,6 @@ https://github.com/yokoffing/Betterfox/wiki/Common-Overrides
 - Open https://github.com/yokoffing/filterlists and press "Subscribe" to the following filterlists:
 	- Hagezi's Personal DNS Blocklist
 	- Actually Legitimate URL Shortener Tool
- 	- [Optional] yokoffing's Annoyance list
- 		- Removes clutter, mostly in social media and news sites.
-   		- E.g. removes "trends" on twitter and "related" / "read more" sections on some sites
 
 	<img src="../../media/firefoxsetup/firefoxsetup_042.png" width="50%" style="float: left; margin-right: 10px;">
 	<div style="clear: both;"></div>
@@ -223,17 +220,7 @@ https://github.com/yokoffing/Betterfox/wiki/Common-Overrides
 	<img src="../../media/firefoxsetup/firefoxsetup_045.png" width="50%" style="float: left; margin-right: 10px;">
 	<div style="clear: both;"></div>
 
-	<img src="../../media/firefoxsetup/firefoxsetup_046.png" width="50%" style="float: left; margin-right: 10px;">
-	<div style="clear: both;"></div>
-
-	<img src="../../media/firefoxsetup/firefoxsetup_047.png" width="50%" style="float: left; margin-right: 10px;">
-	<div style="clear: both;"></div>
-
-- Apply changes & Update now
-
-<img src="../../media/firefoxsetup/firefoxsetup_048.png" width="50%" style="float: left; margin-right: 10px;">
-<div style="clear: both;"></div>
-
+- Click on "Apply changes" & "Update now"
 - You can now close the uBlock Origin Dashboard!
 
 - For a privacy-friendly drop-in replacement of Google Search, I heavily recommend using Startpage as your search engine. You get the exact same search results, but preserve your online privacy.
