@@ -5,7 +5,7 @@ Sources
 - https://github.com/yokoffing/NextDNS-Config
 - https://github.com/yokoffing/filterlists
 
-Warning: Following this setup will disable saving passwords and credit cards on the browser, to enable them, paste the override settings from the Betterfox documentation before copying over your "user.js" file
+Warning: Following this setup will disable saving passwords and credit cards on the browser. It's recommended to use a standalone [Password Manager](/content/tools/password-managers.md) for managing you credentials. If you still want to enable these features in your browser, paste the override settings from the Betterfox documentation before copying over your "user.js" file to the new user profile.
 https://github.com/yokoffing/Betterfox/wiki/Common-Overrides
 
 ## Phase 1: Installing Firefox
@@ -294,7 +294,10 @@ https://github.com/yokoffing/Betterfox/wiki/Common-Overrides
 <img src="../../media/firefoxsetup/firefoxsetup_061.png" width="50%" style="float: left; margin-right: 10px;">
 <div style="clear: both;"></div>
 
-## Phase 4: NextDNS
+## [OPTIONAL] Phase 4: NextDNS
+
+Choosing a trustworthy DNS provider is important, as they possibly have the ability to see the domains you're connecting to. By default you're using whatever your ISP throws at you, in this example we'll change the DNS provider used inside the browser.
+
 - Open https://nextdns.io
 - Click on "Try it now"
 
