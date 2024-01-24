@@ -8,15 +8,15 @@ Browsers provide a user-friendly interface that allows you to navigate websites 
 
 ## What is a Search Engine?
 
-A search engine is essentially a library for the internet, a place to find the books (web pages) you want to read. When you use a search engine, you type in words or phrases to describe what you want to find, may it be a recipe for chocolate chip cookies or information about your favorite movies. It does this by taking your search query, comparing it with a huge collection of websites and then showing the most relevant sites based on that query.
+A search engine is essentially a library for the internet, a place to find the books (web pages) you want to see. When you use a search engine, you type in words or phrases to describe what you want to find, may it be a recipe for chocolate chip cookies or information about your favorite movies. It does this by taking your search query, comparing it with a huge collection of websites and then showing the most relevant sites based on that query.
 
-For a Search Engine to gather its library of websites, it uses a 'web crawler'. These web crawlers essentially explore the internet, visit websites and map their content. The websites in question are then indexed for the Search Engine to compare search queries against.
+For a Search Engine to gather its library of websites, it uses a 'web crawler'. These web crawlers explore the internet, visit websites and map their content. The websites in question are then indexed for the Search Engine to compare search queries against.
 
 ## What Browsers are out there?
 
-When choosing a web browser, there are many possible choices that fit different use-cases, but you can essentially boil them down to two different browser engines:
+When choosing a web browser, there are many possible choices that fit different use-cases, but you can essentially boil them down to three different browser engines:
 
-- Chromium (Developed by Google) 
+- Chromium/Blink (Developed by Google) 
   * Google Chrome
   * Google Chromium (Chrome, but only the Open-Source part)
   * Microsoft Edge
@@ -34,54 +34,57 @@ When choosing a web browser, there are many possible choices that fit different 
   * Fennec (Mobile)
   * Mull (Mobile)
 
+- Webkit
+ * Safari
+ * iOS Browsers (Apple enforces Browsers to use the WebKit Engine on iOS)
+ * Gnome Web
 
 ## Can't I just use Incognito Mode to stay anonymous?
 
-Contrary to popular belief, Incognito Mode doesn't anonymize you or protect your online privacy as much as it sounds like it does. Using incognito mode helps to keep your local browsing history and cookies from being stored on your device. However, your Internet Service Provider (ISP) and websites can still absolutely track your online activity.
+Contrary to popular belief, Incognito Mode doesn't anonymize you or protect your online privacy as much as it sounds like it does. Using incognito mode helps to keep your _local_ browsing history and cookies from being permanently stored on your device. However, your Internet Service Provider (ISP) and websites can still absolutely track your online activity using your IP Address and various fingerprinting metrics.
 
 ## Which Browser should I use?
 
-Choosing a Browser highly depends on what you want to use it for. Do not forget that it's possible to install multiple Browsers, which I would recommend to seperate your searches and the various parts of your online life. (E.g. seperate your banking, shopping, work, etc.)
+Choosing a Browser highly depends on what you want to use it for. Do not forget that it's absolutely possible to install multiple Browsers, which I would heavily recommend to seperate your searches and the various parts of your online life. (E.g. seperate your banking and shopping from work and school etc.)
 
-In the end, try out as much as you can and stick with the thing that works best for you.
+In the end, try out as many options as you can and stick with the thing that works best for you.
 
-- For most people, I'd suggest downloading ﻿﻿﻿<a href="https://www.mozilla.org/en-US/firefox/new/" target="\_blank">Firefox</a> and following my [firefox setup guide](/content/guides/firefoxsetup.md) for a good browsing experience. Set it up once and never worry about it again!
+- For most people, I'd suggest installing ﻿﻿﻿<a href="https://www.mozilla.org/en-US/firefox/new/" target="\_blank">Firefox</a>. For a better and more private browsing experience, I've even written a [firefox setup guide](/content/guides/firefoxsetup.md). If you're forced to use a Chromium-based Browser or don't want to bother with a lot of setup, I'd say that Brave is a good option as well. Although it's pretty bloated out of the box (Brave BAT, Brave News, Brave Talk, Brave Rewards, Brave Leo, etc.), this bloat can be disabled, so it's not too big of an issue in the long run.
 
 - I advise against using Opera, Opera GX, Google Chrome and Microsoft Edge because of the following:
   - Personally, I choose to avoid using a Chromium-based browser as much as possible and only use **Ungoogled Chromium** as a backup, in case a site doesn't work on my main browser.
-  - All of the above mentioned browsers are not only completely proprietary, but also based on Chromium, which is developed by Google. Google has shown time and time again that they'll do anything to abuse their browser monopoly, worsening the internet for **EVERYBODY**. From <a href="https://youtu.be/18VM1xZQdXc?si=EMr2bCrFeC2ttjTP" target="\_blank">crippling Ad and Tracker Blockers</a> , <a href="https://youtu.be/Jyk87VVfh9s?si=nkzjgPDybc2j1tOE" target="\_blank">removing support for competing standards</a> or hell, <a href="https://youtu.be/0i0Ho-x7s_U?si=bph6GX0aqvMPJaYL" target="\_blank">trying to **DRM the entire fucking internet**</a>.
+  - All of these mentioned browsers are not only completely proprietary, but also based on Chromium, which is developed by Google. Google has shown time and time again that they'll do anything to abuse their chromium browser monopoly, worsening the internet for **everybody**. From <a href="https://youtu.be/18VM1xZQdXc?si=EMr2bCrFeC2ttjTP" target="\_blank">crippling Ad and Tracker Blockers</a> , <a href="https://youtu.be/Jyk87VVfh9s?si=nkzjgPDybc2j1tOE" target="\_blank">removing support for competing standards</a> or hell, <a href="https://youtu.be/0i0Ho-x7s_U?si=bph6GX0aqvMPJaYL" target="\_blank">trying to **DRM the entire fucking internet**</a>.
 
-- If you're open to a replacement to Google Chrome but cannot or prefer not to switch to a Firefox-based Browser, then <a href="https://brave.com/" target="\_blank">Brave</a> is a straightforward alternative. It blocks ads and trackers out of the box, is open-source, and doesn't rely on Google for search. Sadly, it's pretty bloated out of the box (Brave BAT, Brave News, Brave Talk, Brave Rewards, Brave Leo), this bloat can however be disabled, so it's not too big of an issue.
+- If you need to protect yourself from fingerprinting or just want to have a throwaway browser that leaves no traces on your local machine, then the <a href="https://mullvad.net/en/browser" target="\_blank">Mullvad Browser</a> is a fantastic choice. It's essentially a version of the Tor Browser, without actually connecting to the Tor Network. The point of the browser is to leave the settings as is so every installation is the exact same, making it impossible to fingerprint individuals through their browser configuration behind Mullvad's VPN service. You don't need to have a Mullvad VPN Subscription to use it, you can however use it in tandem with the Mullvad browser by also hiding your IP Address; making you essentially indistinguishable from other Mullvad Browser + VPN users.
 
-- If you need to protect yourself from fingerprinting vectors or just want to have a throwaway browser that leaves no traces on your local machine, then the <a href="https://mullvad.net/en/browser" target="\_blank">Mullvad Browser</a> is a fantastic choice. It's essentially a fork of the Tor Browser, without actually connecting to the Tor Network. The point of the browser is to leave the settings as is so every installation is the exact same, making it impossible to fingerprint individuals through their browser configuration behind Mullvad's VPN service. You don't need to have a Mullvad VPN Subscription to use it, you can however use it in tandem with the Mullvad browser by also hiding your IP Address; making you essentially indistinguishable from other Mullvad Browser + VPN users.
-
-- If you want to browse the internet somewhat anonymously, you should use the <a href="https://www.torproject.org/" target="\_blank">Tor Browser</a>. Using Tor has the power to anonymize you and also allows you to browse the dark web through .onion links. If your threat model requires you to fully anonymize yourself, you have to make sure that your Operating System doesn't expose your activities and is secure to attacks. In this case you can either use <a href="https://www.qubes-os.org/" target="\_blank">QubesOS</a> for maximum security in conjunction with the integrated Whonix VMs or, if you need a more portable solution, flash a USB-Stick with <a href="https://tails.net/" target="\_blank">TailsOS</a>. It creates a Live Session that routes all of its traffic through tor and works on RAM only, meaning that the session is fully erased when you shutdown the computer or unplug the USB-Stick.
+- If you want to browse the internet somewhat anonymously, you should definitely use the <a href="https://www.torproject.org/" target="\_blank">Tor Browser</a>. Using Tor has the power to anonymize you and also allows you to browse the dark web through .onion links. If your threat model requires you to fully anonymize yourself, you have to make sure that your Operating System doesn't expose your activities and is secure to attacks. In this case you can either use <a href="https://www.qubes-os.org/" target="\_blank">QubesOS</a> for maximum security in conjunction with the Whonix integration or, if you need a more portable solution, flash a USB-Stick with <a href="https://tails.net/" target="\_blank">TailsOS</a>. It creates a Live Session that routes all of its traffic through tor and works on RAM only, meaning that the session is fully erased when you shutdown the computer or unplug the USB-Stick.
 
 Do note that even if you have taken all the required steps to anonymize and hide yourself from the internet via Tor, Proxies and VPNs, Websites will still know who you are if you log in to your personal accounts. In this case, either create an account with absolutely no personal ties to you (Including Email), create a temporary throwaway account or just don't log in at all.
 
 ## My current browser setup
 
 Desktop
-- Librewolf
- - My main browser. Firefox with hardened settings and uBlock Origin out of the box
-- Ungoogled Chromium
- - Chromium backup, in case a site doesn't work on the other two
-- Mullvad Browser
- - For browsing the web without being logged in, deletes all local data after closing
+Librewolf
+- My main browser. Firefox with hardened settings and uBlock Origin out of the box, set up to delete all cookies except for the ones I want to stay logged in to
+Ungoogled Chromium
+- Chromium backup, in case a site doesn't work on the other two
+Mullvad Browser
+- For browsing the web privately behind Mullvad VPN, deletes all local data after closing
 
 Mobile
-- Fennec
- - Only for sites I want to stay logged in to
-- Mull
- - General surfing, deletes all local data after closing
-- Bromite
- - Chromium backup, in case a site doesn't work on the other two
+Fennec
+- Only for sites I want to stay logged in to
+Mull
+- General surfing, deletes all local data after closing
+Bromite
+- Chromium backup, in case a site doesn't work on the other two
 
 ## Which Search Engine should I use?
 
-If you want to protect your online privacy, you should stay away from Google, Bing and Yahoo. Instead, you can look for more privacy-friendly alternatives such as <a href="https://www.startpage.com" target="\_blank">Startpage</a> or <a href="https://www.duckduckgo.com" target="\_blank">DuckDuckGo</a>.
+If you want to protect your online privacy, you should stay away from Google, Bing, Yahoo and Yandex. Instead, you can look for more privacy-friendly alternatives such as <a href="https://www.startpage.com" target="\_blank">Startpage</a> or <a href="https://www.duckduckgo.com" target="\_blank">DuckDuckGo</a>. 
+- If you're more technical or wish to have more control over your searches, you should check out a Meta search engine that aggregates the results of other search engines into one, akin to <a href="https://docs.searxng.org" target="\_blank">SearXNG</a> or <a href="https://metager.org/" target="\_blank">MetaGer</a>.
 
-As to which one you should use? There's no definitive answer here, I always find myself switching between the two depending on what I need. Startpage is identical to Google's Search results, has an "Anonymous View" which enables you to view websites anonymously (Acts like a site preview through a proxy) and has better Image Search than DuckDuckGo, while DuckDuckGo has (in my experience) better results for tech troubleshooting and has Bangs!, which are essentially quick shortcuts to other search engines and websites right on the search bar. Using either Startpage or DuckDuckGo is a huge improvement to your privacy, although I believe most people coming from Googlewill feel more at home using Startpage.
+As to which one you should use? There's no definitive answer here, I always find myself switching between DuckDuckGo and Startpage depending on what I need. Startpage is identical to Google's Search results, has an "Anonymous View" which enables you to view websites anonymously (Acts like a site preview through startpage as a proxy) and has better Image Search than DuckDuckGo, while DuckDuckGo has (in my experience) better results for tech troubleshooting and has Bangs!, which are essentially quick shortcuts to other search engines and websites. Using one of these search engines is a huge improvement to your privacy, although I believe most people coming from Google will feel more at home using Startpage.
 
 ### How to change your default Search Engine
 
