@@ -16,7 +16,7 @@ Source: <a href="https://www.techrepublic.com/article/password-managers-a-cheat-
 
 ## Why do I need a password manager?
 
-You've most likely experienced that moment; when you're about to log-in to a website you haven't been visiting for a while, only to realize that you've forgotten your password! Either that, or some rat bastard has changed the passwords of all your accounts once they've gotten one of your credentials from a data breach of some site you signed up for years ago, what a shame. But wait... how does that even happen?
+You've most likely experienced that moment; when you're about to log-in to a website you haven't been visiting for a while, only to realize that you've forgotten your password! Either that, or some rat bastard has changed the passwords of all your accounts once they got your credentials from a data breach of a random site you signed up to, what a shame. But wait... how does that even happen?
 
 With the increasing number of online accounts and the need for long, unique passwords to thwart bruteforce attacks, it becomes challenging to remember them all. Humans aren't exactly the best at remembering long, complicated strings of text that are completely different for every service they use. So... in human fashion, most of us get lazy and reuse the same or a similar password everywhere. It's understandable, though. You can't really expect everyone to remember twenty different 16-letter what-appear-to-be keyboard smashes with lowercase and uppercase letters, numbers and special characters perfectly..
 
