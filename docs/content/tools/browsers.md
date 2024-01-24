@@ -49,7 +49,7 @@ Choosing a Browser highly depends on what you want to use it for. Do not forget 
 
 In the end, try out as many options as you can and stick with the thing that works best for you.
 
-- For most people, I'd suggest installing ﻿﻿﻿<a href="https://www.mozilla.org/en-US/firefox/new/" target="\_blank">Firefox</a>. For a better and more private browsing experience, I've even written a [firefox setup guide](/content/guides/firefoxsetup.md). If you're forced to use a Chromium-based Browser or don't want to bother with a lot of setup, I'd say that Brave is a good option as well. Although it's pretty bloated out of the box (Brave BAT, Brave News, Brave Talk, Brave Rewards, Brave Leo, etc.), this bloat can be disabled, so it's not too big of an issue in the long run.
+- For most people, I'd suggest installing ﻿﻿﻿<a href="https://www.mozilla.org/en-US/firefox/new/" target="\_blank">Firefox</a> and follow my [firefox setup guide](/content/guides/firefoxsetup.md)! If you're forced to use a Chromium-based Browser or don't want to bother with a bit of setup, I'd say that Brave is a good option as well. Although it's pretty bloated out of the box (Brave BAT, Brave News, Brave Talk, Brave Rewards, Brave Leo, etc.), this bloat can be disabled, so it's not too big of an issue in the long run.
 
 - I advise against using Opera, Opera GX, Google Chrome and Microsoft Edge because of the following:
   - Personally, I choose to avoid using a Chromium-based browser as much as possible and only use **Ungoogled Chromium** as a backup, in case a site doesn't work on my main browser.
