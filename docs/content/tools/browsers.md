@@ -35,9 +35,9 @@ When choosing a web browser, there are many possible choices that fit different 
   * Mull (Mobile)
 
 - Webkit
- * Safari
- * iOS Browsers (Apple enforces Browsers to use the WebKit Engine on iOS)
- * Gnome Web
+  * Safari
+  * iOS Browsers (Apple enforces Browsers to use the WebKit Engine on iOS)
+  * Gnome Web
 
 ## Can't I just use Incognito Mode to stay anonymous?
 
@@ -63,21 +63,15 @@ Do note that even if you have taken all the required steps to anonymize and hide
 
 ## My current browser setup
 
-Desktop
-Librewolf
-- My main browser. Firefox with hardened settings and uBlock Origin out of the box, set up to delete all cookies except for the ones I want to stay logged in to
-Ungoogled Chromium
-- Chromium backup, in case a site doesn't work on the other two
-Mullvad Browser
-- For browsing the web privately behind Mullvad VPN, deletes all local data after closing
-
-Mobile
-Fennec
-- Only for sites I want to stay logged in to
-Mull
-- General surfing, deletes all local data after closing
-Bromite
-- Chromium backup, in case a site doesn't work on the other two
+| Platform 	| Name               	| Use-Case                                                                                                                                                         	|
+|----------	|--------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Desktop  	| Librewolf          	| My main browser. Firefox with hardened settings and uBlock Origin out of  the box, set up to delete all cookies except for the ones I want to  stay logged in to 	|
+|          	| Ungoogled Chromium 	| Chromium backup, in case a site doesn't work on the other two                                                                                                    	|
+|          	| Mullvad Browser    	| For browsing the web privately behind Mullvad VPN, deletes all local data after closing                                                                          	|
+|          	|                    	|                                                                                                                                                                  	|
+| Mobile   	| Fennec             	| Only for visiting sites I'm logged into                                                                                                                          	|
+|          	| Mull               	| General surfing, deletes all local data after closing                                                                                                            	|
+|          	| Bromite            	| Chromium backup, in case a site doesn't work on the other two                                                                                                    	|
 
 ## Which Search Engine should I use?
 
