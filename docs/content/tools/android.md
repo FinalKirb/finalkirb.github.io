@@ -45,7 +45,6 @@ Here are a couple of FOSS apps I can generally recommend:
 For social media, there are custom clients created by the community that may offer additional features and better privacy
  * Youtube - Newpipe
  * Reddit - Infinity / Boost / Relay / Stealth
- * Twitter - Nitter
  * Mastodon - Tusky / Subway Tooter / Shitter
 
 Keep in mind, that some apps (may it be Proprietary or FOSS) may require rooting your device for better functionality.
