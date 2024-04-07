@@ -1,53 +1,51 @@
 # Android
 
-> Thank you, Bee for writing the basis of this article!
+> Thank you, Bee for writing the groundwork of this article!
 
 
 ## What is Android?
 
-The AOSP (Android Open-Source Project), also known as Android is an Open-Source Kernel based on Linux, primarily used for mobile devices such as the smartphones and tablets that we use on a daily basis. While a significant portion of the code involves proprietary software designed for closed ecosystems by Google and device manufacturers, the project's openness and accessibility to the public have given rise to a diverse array of custom ecosystem versions, commonly referred to as ROMs.
+The AOSP (Android Open-Source Project), also known as Android is an Open-Source Kernel based on Linux, primarily used for mobile devices such as the smartphones and tablets that we use on a daily basis. While a significant portion of the code involves proprietary software designed for closed ecosystems by Google and device manufacturers, the project's accessibility to the public have given rise to a diverse array of android flavors, commonly referred to as ROMs.
 
 ## General Advice
 
 For the people that prefer a concise overview over delving into the detailed content of this article, here are some general tips to make your Android devices safer:
 
  * Use a safe password for your device lock. Remember to make it as unique as you can.
- * Avoid the default proprietary apps as much as you can. Not only do they often lack open functionality, but are a serious hazard to your privacy. That includes default browsers, sms/contacts/mail clients and app stores.
+ * If you're using the Android ROM your device manufacturer ships by default, avoid the proprietary default apps as much as you can. Not only do they often lack functionality, but are a serious hazard to your privacy as well. That includes default browsers, sms/contacts/mail clients and app stores.
  * Do not download strange files or install shady APKs from untrustworthy sources.
- * With some exceptions, most of the time Privacy-wise: FOSS > Proprietary Apps
- * Be cautious of the apps you install, may it come from the Google Play Store or from FOSS Repositories. Either source can be prone to malicious software.
- * Make sure to check your apps' permissions. Camera, Location, SMS, Storage, Contacts, etc. Don't give apps permissions that they do not need for their base functions.
- * Don't hand over your phone number to sites, services or people that you don't trust, your phone number is one of the points of information least likely to change about you. Some phones have Dual-SIM support, which can be useful if you have/plan to get a disposable prepaid number.
- * If you don't need or use an app anymore, just uninstall it.
+ * With some exceptions, most of the time Privacy-wise: FOSS Apps > Proprietary Apps.
+ * Be cautious of the apps you install, may it come from the Google Play Store or even from FOSS Repositories. Either source can be prone to malicious software.
+ * Make sure to check your apps' permissions. Camera, Microphone, Location, SMS, Contacts, etc. Don't give apps permissions that they do not need for their functions, be skeptical of what an app does in the background.
+ * Don't hand over your phone number to sites, services or people that you don't trust, your phone number is one of the points of information least likely to change about you. Some phones have Dual-SIM support, which can be useful if you have/plan to get a disposable prepaid number. Otherwise there are various services available to get a virtual/temporary phone number
+ * If you don't need or use an app anymore, just uninstall it. Leaving these apps on your device leave a stronger attack surface.
 
 ## What are FOSS Apps?
 
-In today's technological landscape, it's easy to forget the beginning of home-made apps (homebrew, as some people put it) that used to be all around the start of personal computers. Nowadays, apps tend to be centralized and created by the big tech companies such as Google, Microsoft, Samsung, you get the picture.
+In today's landscape ruled by big tech, it's easy to forget the beginning, the home-made apps (homebrew, as some people put it) that used to be all around the start of personal computers. Nowadays, apps tend to be centralized and created by the big tech companies such as Google, Microsoft, Samsung, you get the picture.
 
-While this has given better accessibility and some convenience to consumers in some regard, this also has made a majority of apps not only abuse their pricing or slash their functionality, but are sometimes straight up dangerous for your security and privacy.
-From the best effort of collaborators and users such as yourself, FOSS Apps (as in Free Open Source Software) apps can become a superior alternative to some of the popular proprietary apps that are out there on the market and may even allow the modification of certain apps from contributors to improve on their featureset.
+While this has given better accessibility and some convenience to consumers in some regard, this also has made a majority of apps not only abuse their pricing or slash their functionality, but are sometimes straight up dangerous for your security and privacy. From the best effort of collaborators and users such as yourself, FOSS Apps (as in Free Open Source Software) apps can become a superior alternative to some of the popular proprietary apps that are out there on the market and may even allow the modification of certain apps from contributors to improve on their featureset.
 
 Here are a couple of FOSS apps I can generally recommend:
 
   * F-Droid - The Biggest Repo market for FOSS Apps. Comes in a lot of flavours too, my favorite is Droid-ify.
-  * Aurora Store - An alternative for the Google Play Store for those who don't want to rely on Google.
-  * Micro G Project - A Open Source and more privacy-friendly implementation of Google's Play Services (Play Store, Youtube, etc)
-  * ReVanced - A general modificaton project to patch proprietary apps. These modifications can range from custom themes to blocking ads.
-  * Aegis Authenticator - FOSS 2FA Authenticator, encrypted behind a password/biometrics with automatic backup functionality.
+  * Aurora Store - An alternative for the Google Play Store for those who don't want to use a google account / rely less on google.
+  * Micro G Project - A more privacy-friendly implementation of Google Play Services (Play Store, Youtube, etc)
+  * ReVanced - A general modificaton project to patch proprietary apps. These modifications can range from custom themes to blocking ads and trackers.
+  * Greyjay - Searches and streams/plays videos from various online platforms such as youtube, odyssey, peertube, etc. Backed by Louis Rossmann
+  * Aegis Authenticator - 2FA Authenticator, encrypted behind a password/biometrics with automatic backup functionality.
   * FairEmail / K-9 Mail - An alternative client for email services that support external IMAP (Not to confuse with the Email service itself!)
   * Signal - Encrypted and actually secure and private messaging, get WhatsApp outta here!
   * QKSMS - Privacy-respecting SMS Client
 
   * DAVx5 - Calender/Contacts/Notes/Tasks synchronization
-  * QuillPad - Privacy-friendly notetaking, supports Nextcloud Syncing
-  * Tasks.org - Privacy-friendly Task & To-Do list, supports DAVx5
+  * QuillPad - Privacy-friendly notetaking, supports Nextcloud syncing
+  * Tasks.org - Privacy-friendly Task & To-Do list, supports DAVx5 syncing
 
-For social media, there are custom clients created by the community that may offer additional features and better privacy
- * Youtube - Newpipe
+For social media, there are custom clients created by the community that may offer additional features and actually respect your privacy
+ * Youtube - Greyjay (Also supports streaming other platforms!) / Newpipe
  * Reddit - Infinity / Boost / Relay / Stealth
- * Mastodon - Tusky / Subway Tooter / Shitter
-
-Keep in mind, that some apps (may it be Proprietary or FOSS) may require rooting your device for better functionality.
+ * Mastodon - Mastodon / Tusky / Subway Tooter / Shitter
 
 ## What are ROMS?
 
