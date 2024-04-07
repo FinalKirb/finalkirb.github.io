@@ -24,11 +24,11 @@ However, most people obliviously throw away the security of their entire interne
 
 That's the key tip to cybersecurity, or hell.. security as a whole; You want to avoid that single point of failure as much as possible. If you let the password manager generate random passwords for all of your accounts, you don't have to worry as much if one of them is compromised. With a set up password manager, only that one account with that one randomly generated password is affected. If you were to use the same password and E-Mail address everywhere in that same scenario, your entire internet presence, your personal data, your banking and your identity would have been compromised.
 
-- Yes, it's possible to argue that a password manager is a single point of failure as well, as once you figure out the master password you can get everything.. but that's what 2FA is for. Also, you're supposed to use the complex master password nowhere else except for your vault, so there'd comparatively be next to no risk of your master password being compromised by third parties compared to reusing the same password everywhere.
+- Yes, it's possible to argue that a password manager is a single point of failure as well, as once you figure out the master password you can get everything.. but that's what 2FA is for. Also, you're supposed to use the complex master password nowhere else except for your vault, so there'd be next to no risk of your master password being compromised by third parties compared to reusing the same password everywhere.
 
 ## I reuse all my passwords, do I have to change them all manually to be more secure?
 
-Unfortunately, yes. If you want redundancy on your online accounts, you have to go through a somewhat time-consuming process of resetting all of your passwords and have your password manager generate new ones. manually, by hand.
+Unfortunately, yes. If you want to avoid being mass-hacked when it comes to the worst, you have to go through a somewhat time-consuming process of resetting all of your passwords and have your password manager generate new ones. manually, by hand.
 
 Fortunately, you only have to do it one single time. It may be a pain in the ass once, but in my eyes, the benefits definitely outweigh the trouble over the long term. Disaster usually strikes when you *think* you're safe, when in fact, you aren't.
 
